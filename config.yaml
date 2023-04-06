@@ -1,5 +1,5 @@
 main:
-  project_name: exercise_14
+  project_name: RandomForest_GenreClassifier
   experiment_name: dev
   execute_steps:
     - download
